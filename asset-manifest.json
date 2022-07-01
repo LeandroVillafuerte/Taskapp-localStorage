@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb0a886d.css",
-    "main.js": "/static/js/main.622d3645.js",
-    "index.html": "/index.html",
-    "main.fb0a886d.css.map": "/static/css/main.fb0a886d.css.map",
-    "main.622d3645.js.map": "/static/js/main.622d3645.js.map"
+    "main.css": "/Taskapp-localStorage/static/css/main.fb0a886d.css",
+    "main.js": "/Taskapp-localStorage/static/js/main.622d3645.js",
+    "index.html": "/Taskapp-localStorage/index.html",
+    "main.fb0a886d.css.map": "/Taskapp-localStorage/static/css/main.fb0a886d.css.map",
+    "main.622d3645.js.map": "/Taskapp-localStorage/static/js/main.622d3645.js.map"
   },
   "entrypoints": [
     "static/css/main.fb0a886d.css",
